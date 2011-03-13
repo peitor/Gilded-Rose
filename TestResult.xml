@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--This file represents the results of running a test suite-->
+<test-results name="D:\DataPersonal\Projects\Code-Katas\NotMyself-GildedRose\src\GildedRose.Tests\bin\debug\GildedRose.Tests.dll" total="20" errors="0" failures="0" not-run="0" inconclusive="0" ignored="0" skipped="0" invalid="0" date="2011-03-13" time="22:38:28">
+  <environment nunit-version="2.5.9.10348" clr-version="2.0.50727.4952" os-version="Microsoft Windows NT 6.1.7600.0" platform="Win32NT" cwd="D:\DataPersonal\Projects\Code-Katas\NotMyself-GildedRose" machine-name="GECKO" user="PeterGfader" user-domain="SSW2000" />
+  <culture-info current-culture="en-AU" current-uiculture="en-US" />
+  <test-suite type="Assembly" name="D:\DataPersonal\Projects\Code-Katas\NotMyself-GildedRose\src\GildedRose.Tests\bin\debug\GildedRose.Tests.dll" executed="True" result="Success" success="True" time="0.154" asserts="0">
+    <results>
+      <test-suite type="Namespace" name="GildedRose" executed="True" result="Success" success="True" time="0.132" asserts="0">
+        <results>
+          <test-suite type="Namespace" name="Tests" executed="True" result="Success" success="True" time="0.125" asserts="0">
+            <results>
+              <test-suite type="TestFixture" name="UpdateQualityTests" executed="True" result="Success" success="True" time="0.122" asserts="0">
+                <results>
+                  <test-case name="GildedRose.Tests.UpdateQualityTests.UpdateQuality_AgedBrie_ActuallyincreasesinQualitytheolderitgets" executed="True" result="Success" success="True" time="0.062" asserts="1" />
+                  <test-case name="GildedRose.Tests.UpdateQualityTests.UpdateQuality_BackstagePasses_Is49" executed="True" result="Success" success="True" time="0.015" asserts="1" />
+                  <test-case name="GildedRose.Tests.UpdateQualityTests.UpdateQuality_BackstagePasses_Is50" executed="True" result="Success" success="True" time="0.001" asserts="1" />
+                  <test-case name="GildedRose.Tests.UpdateQualityTests.UpdateQuality_BackstagePasses_Is51" executed="True" result="Success" success="True" time="0.001" asserts="1" />
+                  <test-case name="GildedRose.Tests.UpdateQualityTests.UpdateQuality_BackstagePasses_MoreThan10" executed="True" result="Success" success="True" time="0.000" asserts="3" />
+                  <test-case name="GildedRose.Tests.UpdateQualityTests.UpdateQuality_BackstagePasses_Qualitydropsto0aftertheconcert" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+                  <test-case name="GildedRose.Tests.UpdateQualityTests.UpdateQuality_BackstagePasses_Qualityincreasesby2whenthereare10daysorless" executed="True" result="Success" success="True" time="0.000" asserts="4" />
+                  <test-case name="GildedRose.Tests.UpdateQualityTests.UpdateQuality_BackstagePasses_Qualityincreasesby3whenthereare5daysorless" executed="True" result="Success" success="True" time="0.000" asserts="5" />
+                  <test-case name="GildedRose.Tests.UpdateQualityTests.UpdateQuality_Conjured_SellIn0Day_QualityDropsTwice" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+                  <test-case name="GildedRose.Tests.UpdateQualityTests.UpdateQuality_Conjured_SellIn1Day_QualityDropsTwice" executed="True" result="Success" success="True" time="0.000" asserts="2" />
+                  <test-case name="GildedRose.Tests.UpdateQualityTests.UpdateQuality_Conjured_SellIn2Day_QualityDropsTwice" executed="True" result="Success" success="True" time="0.000" asserts="3" />
+                  <test-case name="GildedRose.Tests.UpdateQualityTests.UpdateQuality_DecreaseQuality" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+                  <test-case name="GildedRose.Tests.UpdateQualityTests.UpdateQuality_DecreaseSell_CanBeNegative" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+                  <test-case name="GildedRose.Tests.UpdateQualityTests.UpdateQuality_DecreasSellIn" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+                  <test-case name="GildedRose.Tests.UpdateQualityTests.UpdateQuality_HandlesNull" executed="True" result="Success" success="True" time="0.000" asserts="0" />
+                  <test-case name="GildedRose.Tests.UpdateQualityTests.UpdateQuality_QualityNeverOver50_AgedBrie_ActuallyincreasesinQualitytheolderitgets" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+                  <test-case name="GildedRose.Tests.UpdateQualityTests.UpdateQuality_SoldItem_QualityTwiceAsFast" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+                  <test-case name="GildedRose.Tests.UpdateQualityTests.UpdateQuality_Sulfuras_QualityNoChange" executed="True" result="Success" success="True" time="0.001" asserts="1" />
+                  <test-case name="GildedRose.Tests.UpdateQualityTests.UpdateQuality_Sulfuras_SellNoChange" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+                  <test-case name="GildedRose.Tests.UpdateQualityTests.UpdateQuality_TheQualityofanitemisnevernegative" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+                </results>
+              </test-suite>
+            </results>
+          </test-suite>
+        </results>
+      </test-suite>
+    </results>
+  </test-suite>
+</test-results>
